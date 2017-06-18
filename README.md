@@ -1,4 +1,4 @@
 # IntroToProgrammingContest
 http://web.stanford.edu/class/cs97si/
 
-This is a preojct for algorithm learning
+This is a project for algorithm learning (linux)
