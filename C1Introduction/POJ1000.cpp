@@ -1,4 +1,3 @@
-//POJ1000 A+B problem
 #include<iostream>
 #include<string>
 using namespace std;
@@ -13,7 +12,7 @@ int main(int argc, char* argv[])
 	}
 	catch(...)
 	{
-		cerr << "wrong parameter types";
+		cerr << "wrong parameter types"<<endl;
 		return 0;
 	}
 	if((a>=0)&&(a<=10)&&(b>=0)&&(b<=10))
